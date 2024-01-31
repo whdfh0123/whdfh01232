@@ -60,6 +60,7 @@ public class B_while {
         }System.out.println("1부터 입력 받은 정수 "+ sum);
     }
     public void whileExample3(){
+        // 구구단!
         int dan = 2;
         while (dan<=9){
             int su = 1;
